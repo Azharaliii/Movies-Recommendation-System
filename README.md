@@ -19,7 +19,7 @@
 ![Search Dropdown](screenshot2_search.png)
 
 **🎥 Results — 10 similar movies with live posters in a grid**
-![Recommendation Results](screenshots/screenshot3_results.png)
+![Recommendation Results](screenshot3_results.png)
 
 > Select any movie → click **Show Recommendations** → get 10 similar movies with posters instantly.
 
