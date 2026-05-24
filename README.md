@@ -16,7 +16,7 @@
 ![Home Screen](screenshot1_home.png)
 
 **🔎 Search — Type to filter from thousands of movies**
-![Search Dropdown](screenshots/screenshot2_search.png)
+![Search Dropdown](screenshot2_search.png)
 
 **🎥 Results — 10 similar movies with live posters in a grid**
 ![Recommendation Results](screenshots/screenshot3_results.png)
