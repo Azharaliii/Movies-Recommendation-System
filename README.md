@@ -13,7 +13,7 @@
 ## 📸 Screenshots
 
 **🏠 Home — Select a movie and get recommendations**
-![Home Screen](screenshots/screenshot1_home.png)
+![Home Screen](screenshot1_home.png)
 
 **🔎 Search — Type to filter from thousands of movies**
 ![Search Dropdown](screenshots/screenshot2_search.png)
